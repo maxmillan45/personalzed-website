@@ -1,4 +1,3 @@
-# personalzed-website
 # Personalized Webpage Project
 
 ## Description
