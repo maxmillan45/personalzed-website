@@ -21,4 +21,4 @@ This project is an interactive webpage that:
 2. Open index.html in your browser
 
 ## Deployment
-Hosted using GitHub Pages.
+Hosted using GitHub Pages
