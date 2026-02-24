@@ -14,7 +14,7 @@ function calculateMonths(age) {
 function displayQuotes() {
     quotesDiv.innerHTML = "";
     for (let i = 0; i < 5; i++) {
-        quotesDiv.innerHTML += "<p> Keep pushing forward and never give up!</p>";
+        quotesDiv.innerHTML += "<p>Keep pushing forward and never give up!</p>";
     }
 }
 

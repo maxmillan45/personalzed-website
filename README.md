@@ -22,3 +22,119 @@ This project is an interactive webpage that:
 
 ## Deployment
 Hosted using GitHub Pages
+
+
+## How It Works
+
+The user enters their name into the input field.
+
+JavaScript captures the input using:
+
+document.getElementById()
+
+An event listener listens for a button click:
+
+addEventListener("click", function(){})
+
+The DOM updates dynamically to display a personalized greeting.
+
+Example output:
+
+Variables (let, const)
+
+Functions
+
+Event Listeners
+
+Conditional Statements (if/else)
+
+DOM Manipulation
+
+Input Validation
+
+ Screenshots
+
+(You can add screenshots here later)
+
+Example:
+
+![Homepage Screenshot](assets/Screenshot (1).png)
+ Installation & Usage
+Option 1: Run Locally
+
+Download or clone the repository:
+
+git clone https://github.com/maxmillan45/personalzed-website.git
+
+Open the folder in VS Code.
+
+Open index.html in your browser.
+
+Option 2: Live Server (Recommended)
+
+Open project in VS Code.
+
+Install Live Server extension.
+
+Right-click index.html.
+
+Click Open with Live Server.
+
+ Future Improvements
+
+Add dark mode toggle 
+
+Add profile picture upload
+
+Store user data using Local Storage
+
+Add animations using CSS
+
+Improve accessibility
+
+Deploy to GitHub Pages
+
+ Known Issues
+
+Page resets when refreshed (data not stored permanently).
+
+No backend database integration yet.
+
+## Learning Outcomes
+
+By completing this project, I learned:
+
+How to connect JavaScript to HTML
+
+How to manipulate the DOM
+
+How to handle user input
+
+How to structure a project properly
+
+How to use Git commits effectively
+
+## Contribution
+
+Contributions are welcome!
+
+If you would like to improve this project:
+
+Fork the repository
+
+Create a new branch
+
+Make your changes
+
+Submit a pull request
+
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+Maxmillan Njue
+Aspiring Web Developer
+Passionate about JavaScript and Web Development 
+
