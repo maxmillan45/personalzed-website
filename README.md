@@ -40,47 +40,42 @@ The DOM updates dynamically to display a personalized greeting.
 
 Example output:
 
-Variables (let, const)
+* Variables (let, const)
 
-Functions
+* Functions
 
-Event Listeners
+* Event Listeners
 
-Conditional Statements (if/else)
+* Conditional Statements (if/else)
 
-DOM Manipulation
+* DOM Manipulation
 
-Input Validation
+* Input Validation
 
- Screenshots
+* Screenshot
+![alt text](<assets/Screenshot (1).png>)
 
-(You can add screenshots here later)
+## Installation & Usage
+ Option 1: Run Locally
 
-Example:
-
-![Homepage Screenshot](assets/Screenshot (1).png)
- Installation & Usage
-Option 1: Run Locally
-
-Download or clone the repository:
-
+1. Download or clone the repository:
 git clone https://github.com/maxmillan45/personalzed-website.git
 
-Open the folder in VS Code.
+2. Open the folder in VS Code.
 
-Open index.html in your browser.
+3. Open index.html in your browser.
 
 Option 2: Live Server (Recommended)
 
-Open project in VS Code.
+1. Open project in VS Code.
 
-Install Live Server extension.
+2. Install Live Server extension.
 
-Right-click index.html.
+3. Right-click index.html.
 
-Click Open with Live Server.
+4. Click Open with Live Server.
 
- Future Improvements
+## Future Improvements
 
 Add dark mode toggle 
 
@@ -88,13 +83,11 @@ Add profile picture upload
 
 Store user data using Local Storage
 
-Add animations using CSS
-
 Improve accessibility
 
 Deploy to GitHub Pages
 
- Known Issues
+## Known Issues
 
 Page resets when refreshed (data not stored permanently).
 
